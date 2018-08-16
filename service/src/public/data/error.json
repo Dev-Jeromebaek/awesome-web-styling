@@ -1,0 +1,95 @@
+{
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "method": "get",
+    "url": "/proxy/dashboard/1502"
+  },
+  "request": {},
+  "response": {
+    "data":
+      "<html><head><title>Apache Tomcat/@VERSION@ - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - Request processing failed; nested exception is java.lang.NullPointerException</h1><HR size=\"1\" noshade=\"noshade\"><p><b>type</b> Exception report</p><p><b>message</b> <u>Request processing failed; nested exception is java.lang.NullPointerException</u></p><p><b>description</b> <u>The server encountered an internal error that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException\n\torg.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982)\n\torg.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:624)\n\torg.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:731)\n\torg.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)\n\tch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(MDCInsertingServletFilter.java:49)\n\tcom.tmoncorp.core.logback.filter.MDCServletFilter.doFilter(MDCServletFilter.java:22)\n\torg.sitemesh.webapp.contentfilter.ContentBufferingFilter.bufferAndPostProcess(ContentBufferingFilter.java:169)\n\torg.sitemesh.webapp.contentfilter.ContentBufferingFilter.doFilter(ContentBufferingFilter.java:126)\n\torg.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:120)\n\torg.sitemesh.config.ConfigurableSiteMeshFilter.doFilter(ConfigurableSiteMeshFilter.java:163)\n\tcom.tmoncorp.mvc.filter.CustomizedHttpServletRequestFilter.doFilter(CustomizedHttpServletRequestFilter.java:31)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:330)\n\torg.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:118)\n\torg.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:84)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:113)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:103)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\tcom.tmoncorp.mvc.security.user.UserRequestAttributeFilter.doFilter(UserRequestAttributeFilter.java:47)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:113)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:154)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:45)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter.doFilter(AbstractPreAuthenticatedProcessingFilter.java:107)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:50)\n\torg.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:87)\n\torg.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:342)\n\torg.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:192)\n\torg.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:160)\n\torg.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)\n\torg.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)\n\torg.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)\n\torg.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)\n</pre></p><p><b>root cause</b> <pre>java.lang.NullPointerException\n</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/@VERSION@ logs.</u></p><HR size=\"1\" noshade=\"noshade\"><h3>Apache Tomcat/@VERSION@</h3></body></html>",
+    "status": 500,
+    "statusText": "Internal Server Error",
+    "headers": {
+      "date": "Tue, 07 Aug 2018 03:31:02 GMT",
+      "content-encoding": "gzip",
+      "server": "nginx",
+      "x-powered-by": "Express",
+      "vary": "Accept-Encoding",
+      "content-language": "en",
+      "transfer-encoding": "chunked",
+      "connection": "close",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "config": {
+      "transformRequest": {},
+      "transformResponse": {},
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*"
+      },
+      "method": "get",
+      "url": "/proxy/dashboard/1502"
+    },
+    "request": {}
+  }
+}
+
+{
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": { "Accept": "application/json, text/plain, */*" },
+    "method": "get",
+    "url": "/proxy/dashboard/2115/graph/1469"
+  },
+  "request": {},
+  "response": {
+    "data": {
+      "httpStatus": "SERVICE_UNAVAILABLE",
+      "exceptionMessage": "오브젝트 생성 실패 (정의되지 않은 Graph Type 입니다. (그래프를 새로 생성하세요))",
+      "exception": "com.tmoncorp.admin.exception.ObjectCreateFailureException",
+      "exceptionCode": "100502",
+      "httpCode": 503
+    },
+    "status": 503,
+    "statusText": "Service Unavailable",
+    "headers": {
+      "date": "Mon, 13 Aug 2018 08:12:09 GMT",
+      "content-encoding": "gzip",
+      "server": "nginx",
+      "x-powered-by": "Express",
+      "vary": "Accept-Encoding",
+      "content-type": "application/json;charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "close"
+    },
+    "config": {
+      "transformRequest": {},
+      "transformResponse": {},
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "headers": { "Accept": "application/json, text/plain, */*" },
+      "method": "get",
+      "url": "/proxy/dashboard/2115/graph/1469"
+    },
+    "request": {}
+  }
+}

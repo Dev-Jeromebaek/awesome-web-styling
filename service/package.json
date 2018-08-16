@@ -1,0 +1,26 @@
+{
+  "name": "service",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.2",
+    "chartist": "^0.11.0",
+    "chartist-plugin-tooltips": "0.0.17",
+    "react": "^16.4.1",
+    "react-chartist": "^0.13.1",
+    "react-dnd": "^5.0.0",
+    "react-dom": "^16.4.1",
+    "react-grid-layout": "^0.16.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://wettyadmin-idev.tmon.co.kr"
+}

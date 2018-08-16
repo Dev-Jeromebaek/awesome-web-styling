@@ -1,0 +1,175 @@
+{
+  "dashboard_list": [
+    {
+      "dashboardId": 1,
+      "dashboardName": "주문 이력 정보",
+      "dashboardDescription": "주문 이력에 관련된 차트 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 1,
+          "dashboardId": 1,
+          "graphId": 1,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 2,
+          "dashboardId": 1,
+          "graphId": 2,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 3,
+          "dashboardId": 1,
+          "graphId": 3,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 4,
+          "dashboardId": 1,
+          "graphId": 4,
+          "graphDetailType": "LINEAR_GRAPH"
+        }
+      ]
+    },
+    {
+      "dashboardId": 2,
+      "dashboardName": "방문 이력 정보",
+      "dashboardDescription": "사용자의 방문 이력에 대한 분석 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 5,
+          "dashboardId": 2,
+          "graphId": 5,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 6,
+          "dashboardId": 2,
+          "graphId": 6,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 7,
+          "dashboardId": 2,
+          "graphId": 7,
+          "graphDetailType": "BAR_GRAPH"
+        }
+      ]
+    },
+    {
+      "dashboardId": 3,
+      "dashboardName": "문의 이력 정보",
+      "dashboardDescription": "문의 내역에 대한 분석 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 10,
+          "dashboardId": 3,
+          "graphId": 10,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 12,
+          "dashboardId": 3,
+          "graphId": 12,
+          "graphDetailType": "LINEAR_GRAPH"
+        }
+      ]
+    },
+    {
+      "dashboardId": 4,
+      "dashboardName": "판매 이력 정보",
+      "dashboardDescription":
+        "판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 1,
+          "dashboardId": 1,
+          "graphId": 1,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 2,
+          "dashboardId": 1,
+          "graphId": 2,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 3,
+          "dashboardId": 1,
+          "graphId": 3,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 4,
+          "dashboardId": 1,
+          "graphId": 4,
+          "graphDetailType": "LINEAR_GRAPH"
+        }
+      ]
+    },
+    {
+      "dashboardId": 5,
+      "dashboardName": "EKDEKD 이력 정보",
+      "dashboardDescription":
+        "판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 1,
+          "dashboardId": 1,
+          "graphId": 1,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 2,
+          "dashboardId": 1,
+          "graphId": 2,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 3,
+          "dashboardId": 1,
+          "graphId": 3,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 4,
+          "dashboardId": 1,
+          "graphId": 4,
+          "graphDetailType": "LINEAR_GRAPH"
+        }
+      ]
+    },
+    {
+      "dashboardId": 6,
+      "dashboardName": "알ㄴ미ㅏ런아ㅣㅁ런마ㅣㅇ러미ㅏㄴ러ㅣ만ㅇ 이력 정보",
+      "dashboardDescription":
+        "판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다. 판매 이력에 관련된 차트 정보입니다.",
+      "graphCollection": [
+        {
+          "collectionId": 1,
+          "dashboardId": 1,
+          "graphId": 1,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 2,
+          "dashboardId": 1,
+          "graphId": 2,
+          "graphDetailType": "PIE_GRAPH"
+        },
+        {
+          "collectionId": 3,
+          "dashboardId": 1,
+          "graphId": 3,
+          "graphDetailType": "BAR_GRAPH"
+        },
+        {
+          "collectionId": 4,
+          "dashboardId": 1,
+          "graphId": 4,
+          "graphDetailType": "LINEAR_GRAPH"
+        }
+      ]
+    }
+  ]
+}

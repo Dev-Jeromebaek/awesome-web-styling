@@ -1,0 +1,50 @@
+body {
+  background-color: #f07260;
+  font-size: 64px;
+}
+
+#main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spinner {
+  position: relative;
+}
+.spinner:before,
+.spinner:after {
+  content: '';
+  position: relative;
+  display: block;
+}
+.spinner:before {
+  animation: spinner 2.5s cubic-bezier(0.75, 0, 0.5, 1) infinite normal;
+  width: 1em;
+  height: 1em;
+  background-color: #fff;
+}
+.spinner:after {
+  animation: shadow 2.5s cubic-bezier(0.75, 0, 0.5, 1) infinite normal;
+  bottom: -0.5em;
+  height: 0.25em;
+  border-radius: 50%;
+  background-color: rgba(#000, 0.2);
+}
+
+@keyframes spinner {
+  50% {
+    border-radius: 50%;
+    transform: scale(0.5) rotate(360deg);
+  }
+  100% {
+    transform: scale(1) rotate(720deg);
+  }
+}
+@keyframes shadow {
+  50% {
+    transform: scale(0.5);
+    background-color: rgba(#000, 0.1);
+  }
+}

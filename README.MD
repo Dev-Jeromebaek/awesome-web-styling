@@ -1,61 +1,15 @@
-# Simple Spinner Collection
+# Awesome Web Styling with Pure CSS ⭐️
 
-### Only HTML & CSS
+[Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/simple-square-point-loading)
 
-## exam-01
+[Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/simple-square-point-loading)
 
-> https://codesandbox.io/s/mywj8z60ky
+[Loading page similar to Windows](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/loading-page-similar-to-windows)
 
-![Edit spinner exam 01](/gif/spinner01.gif)
+[Changing Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/changing-shape-loading)
 
-[![Edit spinner exam 01](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/mywj8z60ky)
+[Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/widget-spinner-loading)
 
----
+[Analog Clock Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/analog-clock-shape-loading)
 
-## exam-02
-
-> https://codesandbox.io/s/k52zl3rz23
-
-![Edit spinner exam 02](/gif/spinner02.gif)
-
-[![Edit simple spinner 02](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/k52zl3rz23)
-
----
-
-## exam-03
-
-> https://codesandbox.io/s/008223p24n
-
-![Edit spinner exam 03](/gif/spinner03.gif)
-
-[![Edit simple spinner 03](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/008223p24n)
-
----
-
-## exam-04
-
-> https://codesandbox.io/s/q800rqv0yj
-
-![Edit spinner exam 04](/gif/spinner04.gif)
-
-[![Edit simple spinner 04](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/q800rqv0yj)
-
----
-
-## exam-05
-
-> https://codesandbox.io/s/kopv37y587
-
-![Edit spinner exam 05](/gif/spinner05.gif)
-
-[![Edit simple spinner 05](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/kopv37y587)
-
----
-
-## exam-06
-
-> https://codesandbox.io/s/qvjmvyv1z6
-
-![Edit spinner exam 06](/gif/spinner06.gif)
-
-[![Edit simple spinner 06](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/qvjmvyv1z6)
+[19 Simple Spinner collections](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner/19-simple-spinner-collections)

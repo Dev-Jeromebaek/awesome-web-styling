@@ -1,3 +1,9 @@
-# Awesome Web Styling with Pure CSS ⭐️
+# Awesome Web Styling with CSS Animation Effects ⭐️
 
-[Simple Spinner](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/simple-spinner)
+[Checkbox](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox)
+
+[Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading)
+
+[Navigation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav)
+
+[Text](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text)

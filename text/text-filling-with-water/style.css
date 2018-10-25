@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader h1 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 10em;
+  color: rgb(255, 255, 255, 0.1);
+  background-image: url(water-wave.jpg);
+  background-repeat: repeat-x;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-position: left 0px top 20px;
+  }
+  40% {
+    background-position: left 800px top -60px;
+  }
+  80% {
+    background-position: left 1800px top -20px;
+  }
+  100% {
+    background-position: left 2400px top 20px;
+  }
+}

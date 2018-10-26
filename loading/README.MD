@@ -1,4 +1,4 @@
-# Pure CSS Loading Effect 😀
+# Awesome Loading Effect 😀
 
 [19 Simple Spinner collections](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/19-simple-spinner-collections)
 

@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #ff4f54;
+}
+
+.toggle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.toggle span {
+  position: relative;
+  width: 36px;
+  height: 4px;
+  background: #fff;
+  display: block;
+  margin-bottom: 8px;
+  transition: 0.5s;
+}
+
+.toggle span:nth-child(1) {
+  transform-origin: left;
+}
+.toggle span:nth-child(2) {
+  transform-origin: center;
+}
+.toggle span:nth-child(3) {
+  transform-origin: left;
+}
+
+.toggle.active span:nth-child(1) {
+  transform: rotate(43deg);
+  left: 2px;
+}
+.toggle.active span:nth-child(2) {
+  transform: rotate(317deg);
+  right: 3px;
+}
+.toggle.active span:nth-child(3) {
+  transform: scaleX(0);
+}

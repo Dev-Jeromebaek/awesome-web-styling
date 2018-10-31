@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  background: url(bg.png);
+  background-position: center;
+  background-size: 1650px;
+  background-repeat: no-repeat;
+  background-position-y: 40px;
+  background-color: #000;
+}
+
+nav {
+  height: 44px;
+  background: #000;
+}
+
+.menu {
+  position: relative;
+  margin: 0 auto;
+  width: 1000px;
+  overflow: hidden;
+}
+
+.menu ul {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.menu ul li {
+  list-style: none;
+}
+
+.menu ul li,
+.menu ul li a {
+  color: #fff;
+  line-height: 44px;
+  text-decoration: none;
+}
+
+.menu ul li a .fa.fa-apple {
+  font-size: 20px;
+}
+
+.menu ul li a.menu-item {
+  transform: scale(1);
+  transition: 0.5s;
+  display: block;
+}
+
+.menu ul li a.menu-item.hide-item {
+  transform: scale(0);
+}
+
+.menu ul li:nth-child(2) a.menu-item.hide-item {
+  transition-delay: 0.6s;
+}
+.menu ul li:nth-child(3) a.menu-item.hide-item {
+  transition-delay: 0.5s;
+}
+.menu ul li:nth-child(4) a.menu-item.hide-item {
+  transition-delay: 0.4s;
+}
+.menu ul li:nth-child(5) a.menu-item.hide-item {
+  transition-delay: 0.3s;
+}
+.menu ul li:nth-child(6) a.menu-item.hide-item {
+  transition-delay: 0.2s;
+}
+.menu ul li:nth-child(7) a.menu-item.hide-item {
+  transition-delay: 0.1s;
+}
+.menu ul li:nth-child(8) a.menu-item.hide-item {
+  transition-delay: 0s;
+}
+
+.menu ul li:nth-child(2) a.menu-item {
+  transition-delay: 0s;
+}
+.menu ul li:nth-child(3) a.menu-item {
+  transition-delay: 0.1s;
+}
+.menu ul li:nth-child(4) a.menu-item {
+  transition-delay: 0.2s;
+}
+.menu ul li:nth-child(5) a.menu-item {
+  transition-delay: 0.3s;
+}
+.menu ul li:nth-child(6) a.menu-item {
+  transition-delay: 0.4s;
+}
+.menu ul li:nth-child(7) a.menu-item {
+  transition-delay: 0.5s;
+}
+.menu ul li:nth-child(8) a.menu-item {
+  transition-delay: 0.6s;
+}
+
+.search-form {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 44px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.5s;
+}
+
+.search-form.active {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.5s;
+  transform: translateX(-50%);
+}
+
+.search-form input {
+  width: 100%;
+  height: 44px;
+  background: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.search-form input::placeholder {
+  color: #fff;
+}
+
+.search-form:before {
+  content: "\f002";
+  position: absolute;
+  top: 12px;
+  left: -26px;
+  font-size: 18px;
+  color: #fff;
+  font-family: fontAwesome;
+}
+
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 44px;
+  background: #000;
+  color: #fff;
+  line-height: 44px;
+  font-size: 18px;
+  text-align: right;
+  width: 20px;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.close.active {
+  opacity: 1;
+  visibility: visible;
+}

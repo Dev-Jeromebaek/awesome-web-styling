@@ -1,14 +1,22 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 
+## Card
+
+- [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
+
 ## Checkbox
 
-[Checkbox](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox)
+- [CSS Creative Checkbox Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
 
 ## Hamburger
 
 - [Zoom In - Zoom Out Hamburger Menu Icon Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)
 
 - [Transforming Hamburger Menu Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/transforming)
+
+## Indicator
+
+- [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
 
 ## Loading
 
@@ -36,12 +44,14 @@
 
 ## Scrolling
 
-[Scrolling](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling)
+- [Smooth Scrolling Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)
 
 ## Text
+
+- [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
+
+- [Loading Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/loading-text-animation-effects)
 
 - [Shining Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/shining-text-animation-effects)
 
 - [Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
-
-- [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)

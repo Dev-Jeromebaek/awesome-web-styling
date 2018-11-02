@@ -1,7 +1,9 @@
-# Awesome Text Effect 😀
+# Text Effect List 😀
 
-[Shining Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/shining-text-animation-effects)
+- [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
 
-[Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
+- [Loading Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/loading-text-animation-effects)
 
-[3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
+- [Shining Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/shining-text-animation-effects)
+
+- [Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)

@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+.loader {
+  position: relative;
+  font-size: 2em;
+  background: #fff;
+  color: #000;
+  mix-blend-mode: difference;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.5em;
+  padding: 10px;
+}
+
+.loader span {
+  color: #fff;
+  mix-blend-mode: difference;
+}
+
+.loader:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 100%;
+  background: #000;
+  animation: animate 3s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: calc(100% - 80px);
+  }
+  100% {
+    left: 0;
+  }
+}

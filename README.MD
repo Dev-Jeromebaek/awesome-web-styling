@@ -1,5 +1,9 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 
+## Button
+
+- [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-animation-effects-on-hover)
+
 ## Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)

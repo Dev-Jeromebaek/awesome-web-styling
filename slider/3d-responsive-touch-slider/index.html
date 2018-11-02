@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>3D Responsive Touch Slider</title>
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img1.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img2.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img3.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img4.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img5.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img6.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img7.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img8.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="imgBx">
+                    <img src="./image/img9.jpg" alt="">
+                </div>
+                <div class="details">
+                    <h3>John Doe
+                        <br>
+                        <span>Web Designer</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <!-- Add Arrows -->
+        <!-- <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div> -->
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/js/swiper.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            effect: 'coverflow',
+            grabCursor: true,
+            centeredSlides: true,
+            // autoplay: {
+            //     delay: 2000,
+            //     disableOnInteraction: false,
+            // },
+            slidesPerView: 'auto',
+            coverflowEffect: {
+                rotate: 30,
+                stretch: 10,
+                depth: 200,
+                modifier: 1,
+                slideShadows: true,
+            },
+            loop: false,
+            pagination: {
+                el: '.swiper-pagination',
+                // type: 'fraction',
+                clickable: true,
+            },
+            // navigation: {
+            //     nextEl: '.swiper-button-next',
+            //     prevEl: '.swiper-button-prev',
+            // },
+        });
+    </script>
+</body>
+
+</html>

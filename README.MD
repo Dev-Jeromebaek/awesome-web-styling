@@ -2,7 +2,7 @@
 
 ## Button
 
-- [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-animation-effects-on-hover)
+- [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)
 
 ## Card
 
@@ -49,6 +49,10 @@
 ## Scrolling
 
 - [Smooth Scrolling Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)
+
+## Slider
+
+- [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
 
 ## Text
 

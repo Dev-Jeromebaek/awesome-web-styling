@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.imgBox {
+  width: 720px;
+  margin: 50px auto 20px;
+  /* cursor: url(./images/magnifier-zoom-icons.png) 0 0, auto; */
+}
+.imgBox img {
+  width: 100%;
+  border: 4px solid #fff;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+}
+ul.thumb {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul.thumb li {
+  list-style: none;
+  margin: 0 10px;
+}
+ul.thumb li img {
+  width: 120px;
+  border: 4px solid #fff;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+  /* cursor: url(./images/magnifier-zoom-icons.png) 6 6, auto; */
+}

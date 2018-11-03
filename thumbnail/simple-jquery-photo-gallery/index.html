@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Simple jQuery Photo Gallery</title>
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div class="imgDetail"></div>
+  <div class="imgBox">
+    <img src="./images/img1.jpg" alt="">
+  </div>
+  <ul class="thumb">
+    <li>
+      <a href="./images/img1.jpg" target="imgBox">
+        <img src="./images/img1.jpg" alt="">
+      </a>
+    </li>
+    <li>
+      <a href="./images/img2.jpg" target="imgBox">
+        <img src="./images/img2.jpg" alt="">
+      </a>
+    </li>
+    <li>
+      <a href="./images/img3.jpg" target="imgBox">
+        <img src="./images/img3.jpg" alt="">
+      </a>
+    </li>
+    <li>
+      <a href="./images/img4.jpg" target="imgBox">
+        <img src="./images/img4.jpg" alt="">
+      </a>
+    </li>
+    <li>
+      <a href="./images/img5.jpg" target="imgBox">
+        <img src="./images/img5.jpg" alt="">
+      </a>
+    </li>
+  </ul>
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('.thumb a').click(function (e) {
+        e.preventDefault();
+        $('.imgBox img').attr("src", $(this).attr("href"));
+      });
+      // $('.thumb a').hover(function () {
+      //   $('.imgBox img').attr("src", $(this).attr("href"));
+      // });
+    })
+  </script>
+</body>
+
+</html>

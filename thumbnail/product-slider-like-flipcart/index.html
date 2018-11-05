@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Product Slider Like Flipcart</title>
+  <link rel="shortcut icon" href="../../favicon.ico">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <ul class="thumb">
+      <li>
+        <a href="./images/img1.png" target="imgBox">
+          <img src="./images/thumb1.png" alt="">
+        </a>
+      </li>
+      <li>
+        <a href="./images/img2.png" target="imgBox">
+          <img src="./images/thumb2.png" alt="">
+        </a>
+      </li>
+      <li>
+        <a href="./images/img3.png" target="imgBox">
+          <img src="./images/thumb3.png" alt="">
+        </a>
+      </li>
+    </ul>
+    <div class="imgBox">
+      <img src="./images/img1.png" alt="">
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('.thumb a').mouseover(function (e) {
+        e.preventDefault();
+        $('.imgBox img').attr("src", $(this).attr("href"));
+      })
+    })
+  </script>
+</body>
+
+</html>

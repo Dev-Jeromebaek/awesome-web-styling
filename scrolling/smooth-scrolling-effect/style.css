@@ -1,0 +1,47 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section:nth-child(odd) {
+  background: #ccc;
+}
+section:before {
+  content: attr(data-text);
+  color: #262626;
+  font-size: 8em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+ul {
+  width: 100%;
+  background: #000;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  letter-spacing: 0;
+  display: flex;
+  justify-content: space-around;
+}
+ul li {
+  list-style: none;
+}
+ul li a {
+  color: #fff;
+  line-height: 50px;
+  box-sizing: border-box;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}

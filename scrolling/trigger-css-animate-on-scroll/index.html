@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Trigger CSS Animate On Scroll</title>
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="lib/aos.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <section>
+        <h1 data-aos="fade-up">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <section>
+        <h1 data-aos="fade-left">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <section>
+        <h1 data-aos="flip-left">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <section>
+        <h1 data-aos="flip-up">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <section>
+        <h1 data-aos="zoom-in">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <section>
+        <h1 data-aos="zoom-out">Lorem Ipsum Dolar Sit Amet</h1>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="lib/aos.js"></script>
+    <script>
+        AOS.init({
+            offset: 200,
+            duration: 1500,
+        });
+    </script>
+</body>
+
+</html>

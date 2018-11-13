@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-bottom: 1px solid #fff;
+  border-right: 1px solid #fff;
+  transform: rotate(45deg);
+  margin: -10px;
+  animation: animate 2s infinite;
+}
+.box span:nth-child(2) {
+  animation-delay: -0.2s;
+}
+.box span:nth-child(3) {
+  animation-delay: -0.4s;
+}
+@keyframes animate {
+  0% {
+    opacity: 0;
+
+    transform: rotate(45deg) translate(-40px, -40px);
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+
+    transform: rotate(45deg) translate(40px, 40px);
+  }
+}

@@ -24,6 +24,10 @@
 
 - [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
 
+## List
+
+- [Post List UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)
+
 ## Loading
 
 - [19 Simple Spinner collections](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/19-simple-spinner-collections)

@@ -12,6 +12,8 @@
 
 - [CSS Creative Checkbox Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
 
+- [CSS Custom Checkbox List Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
+
 ## Hamburger
 
 - [Zoom In - Zoom Out Hamburger Menu Icon Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)
@@ -27,6 +29,8 @@
 ## List
 
 - [Post List UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)
+
+- [Style Lists with CSS Hover Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/style-lists-with-css-hover-effect)
 
 ## Loading
 
@@ -59,6 +63,8 @@
 ## Slider
 
 - [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
+
+- [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
 
 ## Text
 

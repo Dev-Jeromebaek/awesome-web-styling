@@ -56,6 +56,10 @@
 
 -   [Responsive Transparent Menu](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-transparent-menu)
 
+## Page Design
+
+-   [Responsive Page Use Media Query](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-page-use-media-query)
+
 ## Scrolling
 
 -   [Smooth Scrolling Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)

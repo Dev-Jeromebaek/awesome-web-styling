@@ -40,6 +40,8 @@
 
 -   [Changing Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/changing-shape-loading)
 
+-   [Flip Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/flip-loading-animation)
+
 -   [Loading page similar to Windows](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/loading-page-similar-to-windows)
 
 -   [Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)

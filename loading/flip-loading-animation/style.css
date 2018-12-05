@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e91e63;
+}
+.loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border-radius: 10px;
+    animation: animate 2s linear infinite;
+}
+@keyframes animate {
+    0% {
+        transform: translate(-50%, -50%) perspective(200px) rotateX(0deg)
+            rotateY(0deg);
+    }
+    50% {
+        transform: translate(-50%, -50%) perspective(200px) rotateX(-180deg)
+            rotateY(0deg);
+    }
+    100% {
+        transform: translate(-50%, -50%) perspective(200px) rotateX(-180deg)
+            rotateY(180deg);
+    }
+}

@@ -26,6 +26,10 @@
 
 -   [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
 
+## Layout
+
+-   [Responsive Masonry Grid Layout Like Pinterest](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/responsive-masonry-grid-layout-like-pinterest)
+
 ## List
 
 -   [Post List UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)

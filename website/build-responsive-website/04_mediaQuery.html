@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>MediaQuery</title>
+        <style>
+            body {
+                background: #ab47bc;
+            }
+
+            /* 중단점 - 480px, 600px, 768px, 960px, 1024ox, 1280px */
+
+            /* 화면 너비 0~1280px */
+            @media (max-width: 1280px) {
+                body {
+                    background: #42a5f5;
+                }
+                h1:after {
+                    content: '화면 너비 0~1280px';
+                }
+            }
+            /* 화면 너비 0~1024px */
+            @media (max-width: 1024px) {
+                body {
+                    background: #00897b;
+                }
+                h1:after {
+                    content: '화면 너비 0~1024px';
+                }
+            }
+            /* 화면 너비 0~960px */
+            @media (max-width: 960px) {
+                body {
+                    background: #d11515;
+                }
+                h1:after {
+                    content: '화면 너비 0~960px';
+                }
+            }
+            /* 화면 너비 0~768px */
+            @media (max-width: 768px) {
+                body {
+                    background: #6d4c41;
+                }
+                h1:after {
+                    content: '화면 너비 0~768px';
+                }
+            }
+            /* 화면 너비 0~600px */
+            @media (max-width: 600px) {
+                body {
+                    background: #fb8c00;
+                }
+                h1:after {
+                    content: '화면 너비 0~600px';
+                }
+            }
+            /* 화면 너비 0~480px */
+            @media (max-width: 480px) {
+                body {
+                    background: #43a047;
+                }
+                h1:after {
+                    content: '화면 너비 0~480px';
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>MediaQuery</h1>
+    </body>
+</html>

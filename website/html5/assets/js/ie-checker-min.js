@@ -1,0 +1,2 @@
+/*! IE-Checker v1.0.1 | (c) 2007-2016 The GrotesQ | https://github.com/Unk/IE-Checker */
+!function(){function c(a){var c="";c+=" is-ie",c+=" ie"+a;for(var d=a+1;d<=b;d++)c+=" lt-ie"+d;document.getElementsByTagName("html")[0].className+=c}var a=navigator.userAgent.toLowerCase(),b=14;if(/edge\/([0-9]{1,}[\.0-9]{0,})/.test(a)){if(a=/edge\/([0-9]{1,}[\.0-9]{0,})/.exec(a))var d=parseInt(a[1]);c(d)}else if(a.indexOf("msie")!=-1||a.indexOf("trident")!=-1){var d=11;if(a=/msie ([0-9]{1,}[\.0-9]{0,})/.exec(a))var d=parseInt(a[1]);c(d)}}();

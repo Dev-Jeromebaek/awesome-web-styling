@@ -1,0 +1,123 @@
+/* layout */
+#header {
+  height: 281px;
+  background: url(../img/header_bg2.jpg) repeat-x center top;
+}
+
+/* container */
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  /* background: rgba(0, 0, 0, 0.6); */
+}
+
+/* quick */
+.quick {
+  text-align: right;
+}
+.quick a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 0 0 10px;
+  transition: all 0.5s ease;
+}
+.quick a:hover {
+  color: #ccc;
+}
+
+/* title */
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 75px;
+}
+.title p {
+  display: inline-block;
+  font-size: 24px;
+  background: transparent;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+.title h1 {
+  margin: 5px;
+}
+.title h1 a {
+  background: transparent;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* icon-font */
+.icon-font {
+  text-align: center;
+  padding: 33px 0;
+}
+.icon-font ul {
+}
+.icon-font li {
+  display: inline;
+  position: relative;
+}
+.icon-font li a {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  background: rgba(238, 153, 120, 0.4);
+  color: #fff;
+  font-size: 35px;
+  border-radius: 50%;
+  line-height: 65px;
+  margin: 0 3px;
+}
+.icon-font li a .tool {
+  transform: translateX(-50%);
+  display: block;
+  position: absolute;
+  top: -75px;
+  left: 50%;
+  font-size: 14px;
+  border-radius: 6px 0;
+  font-weight: bold;
+}
+.icon-font li a .tool:before {
+  content: '';
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-top: 5px solid rgba(238, 153, 120, 0.4);
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+/* mediaQuery */
+@media (max-width: 1280px) {
+  .container {
+    width: 100%;
+  }
+  .row {
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 960px) {
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 600px) {
+}
+
+@media (max-width: 480px) {
+}
+
+@media (max-width: 320px) {
+}

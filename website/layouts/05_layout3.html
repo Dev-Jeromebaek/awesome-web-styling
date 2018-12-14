@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Layout3</title>
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+      #wrap {
+        width: 960px;
+        margin: 0 auto;
+      }
+      .gray {
+        background: #333;
+        width: 100%;
+        height: 400px;
+      }
+      .salmon {
+        background: #444;
+        width: 50%;
+        height: 400px;
+        float: left;
+      }
+      .green {
+        background: #555;
+        width: 50%;
+        height: 400px;
+        float: left;
+      }
+
+      @media (max-width: 960px) {
+        #wrap {
+          width: 90%;
+        }
+      }
+      @media (max-width: 768px) {
+        #wrap {
+          width: 100%;
+        }
+      }
+      @media (max-width: 480px) {
+        .salmon,
+        .green {
+          float: none;
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <div class="gray"></div>
+      <div class="salmon"></div>
+      <div class="green"></div>
+    </div>
+  </body>
+</html>

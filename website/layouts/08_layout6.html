@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>layout6</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background: #fa93cd;
+      }
+      #wrap {
+        width: 80%;
+        margin: 100px auto;
+      }
+      .box {
+        width: 18%;
+        height: 40px;
+        margin: 1%;
+        background: #fff;
+        float: left;
+        border-radius: 10px;
+      }
+      /* 4칸 */
+      @media (max-width: 1024px) {
+        .box {
+          width: 23%;
+        }
+      }
+      /* 3칸 */
+      @media (max-width: 960px) {
+        .box {
+          width: 31.3333%;
+        }
+      }
+      /* 2칸 */
+      @media (max-width: 768px) {
+        .box {
+          width: 48%;
+        }
+      }
+      /* 1칸 */
+      @media (max-width: 480px) {
+        .box {
+          width: 98%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </body>
+</html>

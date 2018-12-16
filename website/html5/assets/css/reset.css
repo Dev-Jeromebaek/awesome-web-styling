@@ -90,6 +90,7 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  /* text-size-adjust: none; */
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -113,7 +114,8 @@ body {
 }
 
 ol,
-ul {
+ul,
+li {
   list-style: none;
 }
 
@@ -132,8 +134,78 @@ table {
   border-spacing: 0;
 }
 
+/* 폰트 초기화 */
+body,
+input,
+textarea,
+select,
+button,
+table {
+  font-family: '나눔 바른 고딕', 'Nanum Barun Gothic', '나눔 고딕',
+    'Nanum Gothic', '돋움', Dotum, helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/* 폰트 스타일 초기화 */
+em,
+address {
+  font-style: normal;
+}
+
+/* ir 효과 */
+.ir {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 /* a tag*/
 a {
   text-decoration: none;
+  color: #dbdbdb;
+}
+a:hover {
   color: #000;
+}
+
+/* 반응형 이미지 */
+img,
+video {
+  width: 100%;
+}
+
+/* 이미지 테두리 초기화 */
+img,
+fieldset {
+  border: 0;
+}
+
+/* clearfix */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: block;
+  content: '';
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
 }

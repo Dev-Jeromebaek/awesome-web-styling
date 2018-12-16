@@ -1,13 +1,56 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+
 /* layout */
 #header {
-  height: 281px;
   background: url(../img/header_bg2.jpg) repeat-x center top;
 }
+#nav {
+}
+#tit {
+  background: #000;
+  padding: 15px 0;
+  border-bottom: 1px solid #dbdbdb;
+}
+#contents {
+}
+#contents .container {
+  border-right: 1px solid #dbdbdb;
+  border-left: 1px solid #dbdbdb;
+}
 
+#cont-left {
+  width: 250px;
+  height: 500px;
+  float: left;
+}
+#cont-center {
+  overflow: hidden;
+  height: 500px;
+  margin-right: 250px;
+  border-right: 1px solid #dbdbdb;
+  border-left: 1px solid #dbdbdb;
+}
+#cont-right {
+  width: 250px;
+  height: 500px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+#footer {
+  width: 100%;
+  height: 200px;
+  border-top: 1px solid #dbdbdb;
+}
+.ir {
+  display: none;
+}
 /* container */
 .container {
   width: 1200px;
   margin: 0 auto;
+  position: relative;
   /* background: rgba(0, 0, 0, 0.6); */
 }
 
@@ -19,7 +62,7 @@
   display: inline-block;
   color: #fff;
   text-decoration: none;
-  padding: 5px 0 0 10px;
+  padding: 5px 0 5px 10px;
   transition: all 0.5s ease;
 }
 .quick a:hover {
@@ -49,18 +92,18 @@
   padding: 10px 20px;
   font-size: 14px;
   font-weight: bold;
+  margin-top: -4px;
 }
 
 /* icon-font */
 .icon-font {
   text-align: center;
-  padding: 33px 0;
-}
-.icon-font ul {
+  margin-top: 40px;
+  padding-bottom: 40px;
 }
 .icon-font li {
-  display: inline;
   position: relative;
+  display: inline;
 }
 .icon-font li a {
   display: inline-block;
@@ -70,28 +113,113 @@
   color: #fff;
   font-size: 35px;
   border-radius: 50%;
-  line-height: 65px;
   margin: 0 3px;
 }
+.icon-font li a i {
+  line-height: 60px;
+}
 .icon-font li a .tool {
-  transform: translateX(-50%);
-  display: block;
+  font-size: 12px;
   position: absolute;
-  top: -75px;
   left: 50%;
-  font-size: 14px;
+  top: -60px;
+  background: rgba(238, 153, 120, 0.4);
+  padding: 1px 7px;
+  transform: translateX(-50%);
   border-radius: 6px 0;
-  font-weight: bold;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+.icon-font li a:hover .tool {
+  opacity: 1;
+  top: -50px;
 }
 .icon-font li a .tool:before {
   content: '';
   position: absolute;
-  bottom: 20px;
+  bottom: -5px;
   left: 50%;
   transform: translateX(-50%);
   border-top: 5px solid rgba(238, 153, 120, 0.4);
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
+}
+.ie7 .icon-font {
+  display: none;
+}
+.ie8 .icon-font li a .tool {
+  display: none;
+}
+
+/* nav */
+.nav {
+  display: inline-block;
+  padding: 30px 0;
+}
+.nav h2 {
+  font-size: 16px;
+  color: #ff6200;
+  padding-bottom: 5px;
+}
+.nav li {
+  box-sizing: border-box;
+  float: left;
+  width: 20%;
+  position: relative;
+  padding-left: 8px;
+  margin: 2px 0;
+}
+.nav li:before {
+  content: '';
+  width: 3px;
+  height: 3px;
+  background: #ff6200;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  border-radius: 50%;
+}
+.nav li a {
+  padding: 3px;
+  border-radius: 2px;
+  transition: all 0.1s ease;
+}
+.nav li a:hover {
+  background: #ff893f;
+  color: #fff;
+}
+
+/* tit */
+.tit {
+  text-align: center;
+}
+
+.tit h2 {
+  font-size: 39px;
+  color: #ff6200;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+.tit .btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 35px;
+}
+
+.tit .btn a {
+  width: 40px;
+  height: 40px;
+  display: block;
+  background: #ff893f;
+  font-size: 25px;
+  border-radius: 50%;
+  color: #fff;
+  line-height: 42px;
+}
+
+/* footer */
+.footer {
 }
 
 /* mediaQuery */
@@ -102,18 +230,53 @@
   .row {
     padding: 0 15px;
   }
+  .tit .btn {
+    margin-right: 15px;
+  }
+  #contents .container {
+    border: 0;
+  }
 }
 
 @media (max-width: 1024px) {
+  .nav li {
+    width: 25%;
+  }
 }
 
 @media (max-width: 960px) {
+  #cont-center {
+    margin: 0;
+    border-right: 0;
+  }
+  #cont-right {
+    position: static;
+    width: 100%;
+    border-top: 1px solid #dbdbdb;
+  }
 }
 
 @media (max-width: 768px) {
+  .nav li {
+    width: 33.3333%;
+  }
 }
 
 @media (max-width: 600px) {
+  .title,
+  .icon-font,
+  .nav,
+  .tit .btn {
+    display: none;
+  }
+  #cont-left {
+    float: none;
+    width: 100%;
+  }
+  #cont-center {
+    border-left: 0;
+    border-top: 1px solid #dbdbdb;
+  }
 }
 
 @media (max-width: 480px) {

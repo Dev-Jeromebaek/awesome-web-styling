@@ -18,6 +18,9 @@
   border-bottom: 1px solid #dbdbdb;
 }
 #contents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #contents .container {
   border-right: 1px solid #dbdbdb;
@@ -30,7 +33,6 @@
 }
 #cont-center {
   overflow: hidden;
-  min-height: 1400px;
   margin-right: 250px;
   border-right: 1px solid #dbdbdb;
   border-left: 1px solid #dbdbdb;

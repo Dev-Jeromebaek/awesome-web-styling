@@ -7,7 +7,6 @@ $(document).ready(function() {
     $("#nav").slideToggle("show");
   });
 
-
   var time = 7; // time in seconds
 
   var $progressBar, $bar, $elem, isPause, tick, percentTime;

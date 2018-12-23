@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+}
+.share {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  transition: 0.5s;
+  background: #fff;
+}
+.share.active {
+  width: 300px;
+  height: 270px;
+  background: #fff;
+  border-radius: 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+.share .toggle {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ff0057;
+  transition: 0.5s;
+}
+.share.active .toggle {
+  bottom: -25px;
+}
+.share .toggle:before {
+  content: '\f1e0';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+}
+.share.active .toggle:before {
+  content: '\f00d';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  font-size: 24px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  transform: scale(0);
+}
+.share.active ul {
+  transform: scale(1);
+  transition: 0.5s;
+  transition-delay: 0.1s;
+}
+ul li {
+  list-style: none;
+}
+ul li a {
+  display: block;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #262626;
+  transition: 0.5s;
+}
+ul li a:hover {
+  color: #fff;
+  background: #262626;
+  transform: scale(1.05) translateY(-5px);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+ul li a .fab {
+  width: 24px;
+  height: 24px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+ul li:nth-child(1) a .fab,
+ul li:nth-child(1) a:hover {
+  background: #3b5998;
+}
+ul li:nth-child(2) a .fab,
+ul li:nth-child(2) a:hover {
+  background: #55acee;
+}
+ul li:nth-child(3) a .fab,
+ul li:nth-child(3) a:hover {
+  background: #0077b5;
+}
+ul li:nth-child(4) a .fab,
+ul li:nth-child(4) a:hover {
+  background: #ea4c89;
+}
+ul li:nth-child(5) a .fab,
+ul li:nth-child(5) a:hover {
+  background: #bd081c;
+}

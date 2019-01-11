@@ -70,6 +70,8 @@
 
 - [Responsive Page Use Media Query](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-page-use-media-query)
 
+- [Vertical Timeline Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/vertical-timeline-design)
+
 ## Scrolling
 
 - [Smooth Scrolling Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)

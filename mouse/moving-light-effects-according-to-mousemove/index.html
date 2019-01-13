@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Moving Light Effects</title>
+    <link rel="shortcut icon" href="../../favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div class="box"></div>
+    <div class="light"></div>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script>
+      $(document).on('mousemove', function(e) {
+        $('.light').css({
+          left: e.pageX - 300,
+          top: e.pageY - 300,
+        });
+      });
+    </script>
+  </body>
+</html>

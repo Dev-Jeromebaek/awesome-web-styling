@@ -56,6 +56,10 @@
 
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
 
+## Mouse
+
+- [Moving Light Effects According To Mousemove](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/moving-light-effects-according-to-mousemove)
+
 ## Navigation
 
 - [Navigation Bar Like Apple.com](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/navigation-bar-like-apple-dot-com)

@@ -16,6 +16,10 @@
 
 - [CSS Custom Checkbox List Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
 
+## Form
+
+- [Input Label Slide Up On Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/input-label-slide-up-on-hover)
+
 ## Hamburger
 
 - [Zoom In - Zoom Out Hamburger Menu Icon Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)

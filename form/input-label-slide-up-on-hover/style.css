@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url(images/bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background: #fff;
+  padding: 40px;
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0, 0.2);
+}
+.box h2 {
+  margin: 0 0 40px;
+  padding: 0;
+  color: #f7497d;
+  text-transform: uppercase;
+}
+.box input {
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+.box textarea {
+  height: 80px;
+  padding: 10px 0;
+  margin-bottom: 40px;
+}
+.box input,
+.box textarea {
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: none;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #999;
+}
+.box textarea {
+  margin-bottom: 20px;
+}
+.box input[type='submit'] {
+  border-bottom: none;
+  cursor: pointer;
+  background: #f7497d;
+  color: #fff;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+.box form div {
+  position: relative;
+}
+.box form div label {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  color: #999;
+  transition: 0.5s;
+  pointer-events: none;
+}
+
+.box input:focus ~ label,
+.box textarea:focus ~ label,
+.box input:valid ~ label,
+.box textarea:valid ~ label {
+  top: -12px;
+  left: 0;
+  color: #f7497d;
+  font-size: 12px;
+  font-weight: bold;
+}
+.box input:focus,
+.box textarea:focus,
+.box input:valid,
+.box textarea:valid {
+  border-bottom: 2px solid #f7497d;
+}

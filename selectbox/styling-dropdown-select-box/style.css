@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #004882;
+}
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box select {
+  background: #0563af;
+  color: #fff;
+  padding: 10px;
+  width: 250px;
+  height: 50px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.5);
+  -webkit-appearance: button;
+  outline: none;
+}
+.box:before {
+  content: '\f358';
+  font-family: 'Font Awesome 5 Free';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  font-size: 28px;
+  background: #007ce0;
+  pointer-events: none;
+}
+.box:hover:before {
+  background: #0472ca;
+}

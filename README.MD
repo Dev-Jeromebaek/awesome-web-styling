@@ -60,6 +60,8 @@
 
 - [Loading page similar to Windows](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/loading-page-similar-to-windows)
 
+- [Netflix Logo Reveal Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/netflix-logo-reveal-animation)
+
 - [Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)
 
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)

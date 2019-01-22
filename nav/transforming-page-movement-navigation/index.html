@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Responsive Transparent Menu</title>
+    <link rel="shortcut icon" href="../../favicon.ico" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  </head>
+
+  <body>
+    <div class="page">
+      <span class="menu_toggle">
+        <i class="menu_open fa fa-bars fa-lg"></i>
+        <i class="menu_close fa fa-times fa-lg"></i>
+      </span>
+
+      <ul class="menu_items">
+        <li>
+          <a href=""><i class="fa fa-home fa-2x"></i> More</a>
+        </li>
+        <li>
+          <a href=""><i class="fa fa-phone fa-2x"></i> Coffee</a>
+        </li>
+        <li>
+          <a href=""><i class="fa fa-heart fa-2x"></i> Please</a>
+        </li>
+      </ul>
+      <main class="content">
+        <div class="content_inner">
+          <h1>Amazing Design Exclusively</h1>
+          <br /><br /><br />
+          <div class="social">
+            <i class="fa fa-facebook"></i> <i class="fa fa-instagram"></i>
+            <i class="fa fa-twitter"></i> <i class="fa fa-linkedin"></i>
+            <i class="fa fa-youtube-play"></i>
+          </div>
+          <br /><br />
+          <p>
+            Do <strong>not</strong> Push that big, read button in the corner.
+            People will love it. You have been know
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis
+            eius debitis impedit modi odio molestiae ab earum harum maxime rem,
+            sequi optio quas libero velit ullam facilis, aut necessitatibus
+            ipsa? Dolores amet magnam cupiditate molestias.
+          </p>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam unde
+            at perspiciatis omnis illo officia possimus quos ad tempora
+            molestias vero vitae inventore, nemo officiis quis magnam,
+            doloremque quasi ipsa? Nesciunt itaque nisi praesentium nam labore
+            eligendi deserunt exercitationem quas accusamus tenetur eveniet hic
+            voluptatibus sint neque, reprehenderit voluptate inventore ipsum
+            distinctio, rem sequi maxime ullam ratione! Magni, maxime debitis.
+            Dolorum soluta ipsum, excepturi nisi cum laborum repellat, cumque
+            temporibus ea vitae reprehenderit alias sunt voluptate rem in
+            reiciendis fugiat!
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
+            modi nisi illo rem in, deleniti iusto nobis accusantium ut, deserunt
+            minima saepe eligendi aspernatur eum autem veritatis dolores. Beatae
+            assumenda nesciunt quod suscipit optio numquam! Minus soluta
+            architecto iusto! Dolore eos facilis cum iure temporibus,
+            dignissimos aliquam beatae reprehenderit exercitationem.
+          </p>
+        </div>
+      </main>
+    </div>
+    <script>
+      var $page = $('.page');
+      $('.menu_toggle').on('click', function() {
+        $page.toggleClass('real');
+      });
+      $('.content').on('click', function() {
+        $page.removeClass('real');
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,62 @@
+body {
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.section-box .half-img {
+  background-position: 50% 50%;
+}
+.section-box .half-content {
+  padding: 30px;
+  margin-left: 80px;
+  margin-top: 40px;
+}
+.section-box .box-white {
+  padding: 100px 10%;
+  background: #fff;
+  box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.8);
+  border-radius: 15px;
+}
+.section-box .accordion .title {
+  padding: 10px 20px;
+  background: #fff;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  cursor: pointer;
+  position: relative;
+}
+.section-box .accordion .item {
+  margin-bottom: 30px;
+}
+.section-box .accordion .title:after {
+  content: '\f067';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  font-size: 19px;
+  position: absolute;
+  top: 12px;
+  right: 20px;
+}
+.section-box .accordion .title h6 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.section-box .accordion .accordion-info {
+  display: none;
+  padding: 0 15px;
+  margin-top: 30px;
+  border-left: 1px dotted #ccc;
+}
+.section-box .accordion .active {
+  display: block;
+}
+.section-box .accordion .active .title {
+  color: #fff;
+  background: #ee3158;
+  background: linear-gradient(to right, #ee3158, #e1284e);
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+}
+.section-box .accordion .active .title:after {
+  content: '\f068';
+}

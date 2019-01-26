@@ -1,5 +1,9 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 
+## Accordian Menu Effect
+
+- [Simple Card Accordion](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
+
 ## Button
 
 - [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Simple Card Accordion</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" />
+    <link rel="shortcut icon" href="../../favicon.ico" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  </head>
+
+  <body>
+    <section class="section-box bg-img">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-5 offset-2 half-content bg-gray">
+            <div class="box-white">
+              <div class="content">
+                <h5 class="md-15"><b>Why You Can choose us?</b></h5>
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Deleniti fuga id itaque aliquam laboriosam consectetur
+                  assumenda.
+                </p>
+              </div>
+              <div class="accordion">
+                <div class="item active">
+                  <div class="title"><h6>Identifying Problem Source</h6></div>
+                  <div class="accordion-info active">
+                    <p>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Optio cum repudiandae cumque dolorum facilis laborum
+                      reprehenderit eius delectus dolor hic animi aut placeat,
+                      saepe aspernatur corrupti nostrum tenetur obcaecati
+                      inventore!
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="title"><h6>Protecting Brand Integrity</h6></div>
+                  <div class="accordion-info">
+                    <p>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Optio cum repudiandae cumque dolorum facilis laborum
+                      reprehenderit eius delectus dolor hic animi aut placeat,
+                      saepe aspernatur corrupti nostrum tenetur obcaecati
+                      inventore!
+                    </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="title"><h6>Identifying Problem Source</h6></div>
+                  <div class="accordion-info">
+                    <p>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Optio cum repudiandae cumque dolorum facilis laborum
+                      reprehenderit eius delectus dolor hic animi aut placeat,
+                      saepe aspernatur corrupti nostrum tenetur obcaecati
+                      inventore!
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script>
+      jQuery(document).ready(function() {
+        $('.accordion').on('click', '.title', function() {
+          $(this).next().slideDown();
+          $('.accordion-info').not($(this).next()).slideUp();
+        });
+        $('.accordion').on('click', '.item', function() {
+          $(this).addClass("active").siblings().removeClass('active');
+        })
+      })
+    </script>
+  </body>
+</html>

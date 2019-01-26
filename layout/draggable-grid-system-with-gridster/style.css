@@ -1,0 +1,123 @@
+body {
+  background: #34495e;
+  overflow: hidden;
+}
+li {
+  list-style: none;
+  cursor: pointer;
+}
+li:nth-child(1) {
+  background-image: url(images/001.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(2) {
+  background-image: url(images/002.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(3) {
+  background-image: url(images/003.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(4) {
+  background-image: url(images/004.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(5) {
+  background-image: url(images/005.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(6) {
+  background-image: url(images/006.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(7) {
+  background-image: url(images/008.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(8) {
+  background-image: url(images/008.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(9) {
+  background-image: url(images/009.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(10) {
+  background-image: url(images/010.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(11) {
+  background-image: url(images/011.jpg);
+  background-size: cover;
+  background-position: center;
+}
+li:nth-child(12) {
+  background-image: url(images/012.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.gridster {
+  position: relative;
+}
+.gridster>* {
+  margin: 0 auto;
+  transform: height .4s, width .4s
+}
+.gridster .gs-w {
+  z-index: 2;
+  position: absolute;
+}
+.ready .gs-w:not(.preview-holder) {
+  transition: opacity .3s, left .3s, top .3s
+}
+
+.ready .gs-w:not(.preview-holder),
+.ready .resize-preview-holder {
+  transition: opacity .3s, left .3s, top .3s, height .3s;
+}
+.gridster .preview-holder {
+  z-index: 1;
+  position: absolute;
+  background-color: #fff;
+  border-color: #fff;
+  opacity: .3;
+}
+.gridster .player-revert {
+  z-index: 10 !important;
+  transition: left .3s, top .3s !important;
+}
+.gridster .dragging, .gridster .resizing {
+  z-index: 10 !important;
+  transition: all 0s !important;
+}
+.gs-resize-handle {
+  position: absolute;
+  z-index: 1;
+}
+.gs-resize-handle-both {
+  width: 20px;height: 20px;bottom: -8px;right: -8px;
+}
+.gs-resize-handle-x {
+  top: 0;bottom: 13px;right: -5px;width: 10px;cursor: e-resize;
+}
+.gs-resize-handle-y {
+  left: 0;right: 13px;bottom: -5px;height: 10px;cursor: s-resize;
+}
+.gs-w:hover .gs-resize-handle,
+.resizing .gs-resize-handle {
+  opacity: 1;
+}
+.gs-resize-handle, .gs-w.dragging .gs-resize-handle {
+  opacity: 0;
+}

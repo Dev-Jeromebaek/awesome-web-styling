@@ -131,3 +131,7 @@
 - [Product Slider Like Flipcart](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/product-slider-like-flipcart)
 
 - [Simple jQuery Photo Gallery](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/simple-jquery-photo-gallery)
+
+## Tooltip
+
+- [Tooltip with Social Sharing](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/tooltip/tooltip-with-social-sharing)

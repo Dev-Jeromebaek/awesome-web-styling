@@ -5,3 +5,5 @@
 - [CSS Custom Animated Checkbox](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-animated-checkbox)
 
 - [CSS Custom Checkbox List Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
+
+- [Glowing Checkbox Button Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/glowing-checkbox-button-design)

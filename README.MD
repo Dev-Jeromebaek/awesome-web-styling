@@ -20,6 +20,8 @@
 
 - [CSS Custom Checkbox List Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
 
+- [Glowing Checkbox Button Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/glowing-checkbox-button-design)
+
 ## Form
 
 - [Animate Login and SignUp](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/animate-login-and-sign-up)

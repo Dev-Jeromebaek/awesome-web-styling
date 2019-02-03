@@ -6,6 +6,8 @@
 
 - [Changing Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/changing-shape-loading)
 
+- [Detached Diamond Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/detached-diamond-loading-animation)
+
 - [Flip Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/flip-loading-animation)
 
 - [Loading page similar to Windows](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/loading-page-similar-to-windows)

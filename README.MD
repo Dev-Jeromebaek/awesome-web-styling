@@ -78,6 +78,10 @@
 
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
 
+## Modal
+
+- [Animated Modal No JavaScript](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/modal/animated-modal-no-js)
+
 ## Mouse
 
 - [Moving Light Effects According To Mousemove](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/moving-light-effects-according-to-mousemove)

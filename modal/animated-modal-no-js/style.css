@@ -1,0 +1,128 @@
+html,
+body {
+  font-family: tahoma;
+  min-height: 100%;
+  width: 100%;
+  line-height: 1.59;
+  margin: 0;
+  color: #333;
+  background: #fb527a;
+  overflow: hidden;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  margin-top: 4em;
+  background: #fb527a;
+  border: 2px solid #fff;
+  color: #fff;
+  z-index: 10;
+  border-radius: 50px;
+  transition: all 0.3s ease-in;
+}
+.btn:hover {
+  background: #ce2b52;
+  color: #fff;
+}
+
+.row {
+  width: 80%;
+  max-width: 800px;
+  margin: 2em auto;
+}
+.row::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.row .sec {
+  background: #ebebeb;
+  text-align: center;
+  width: calc(50% - 4em - 4px - 40px);
+  margin: 0 10px;
+  float: left;
+  padding: 3em 2em;
+  border: 4px solid #fff;
+  margin-left: 22px;
+}
+
+.hs {
+  opacity: 0;
+  display: none;
+}
+
+.modal-wrapper {
+  opacity: 0;
+  transform: scale(0.5);
+  transition: all 0.2s ease-in;
+  z-index: -10;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  top: 0;
+  left: 0;
+}
+
+.modal-wrapper .modal-header {
+  position: relative;
+}
+
+.modal-wrapper .modal-header .btn-close{
+  position: absolute;
+  color: #333;
+  font-family: tahoma;
+  background: #fff;
+  padding: 0.5em;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  text-align: center;
+  border-radius: 50%;
+  top: -0.5em;
+  right: 0;
+  transition: all 0.5s ease-in;
+  font-weight: bold;
+}
+
+.modal-wrapper .modal-header .btn-close:hover {
+  font-weight: bold;
+  color: #333;
+  background: #fff;
+}
+
+.modal-wrapper .modal-content {
+  padding: 1em 2em;
+}
+
+.modal-wrapper .modal-content-body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+input[id^="modal"]:checked + .modal-wrapper {
+  opacity: 1;
+  z-index: 100;
+  transform: scale(1);
+  transition: all 0.2s ease-out;
+  height: 100vh;
+}
+
+input[id^="modal"]:checked + .modal-wrapper > .modalbox{
+  opacity: 1;
+  z-index: 100;
+  transform: scale(1);
+  transition: all 0.3s ease-out 0.2s;
+}
+
+.modal-wrapper .modalbox {
+  opacity: 0;
+  transform: scale(0.5);
+  transition: all 0.2s ease-in;
+  background: #fb527a;
+  color: #fff;
+  height: auto;
+  width: 50%;
+  margin: 2em auto;
+  padding: 1rem 2rem;
+  border: 2px solid #fff;
+}

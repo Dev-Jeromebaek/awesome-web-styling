@@ -16,6 +16,8 @@
 
 - [Netflix Logo Reveal Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/netflix-logo-reveal-animation)
 
+- [No Freeze Spinner](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/no-freeze-spinner)
+
 - [Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)
 
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)

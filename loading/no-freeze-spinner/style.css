@@ -18,7 +18,7 @@ body * {
   height: 100vh;
   transform: scale(10);
   z-index: -1;
-  background: rgba(0, 0, 0, 0.8);
+  background: #dc3e3e;
 }
 
 .no-freeze-spinner #no-freeze-spinner {

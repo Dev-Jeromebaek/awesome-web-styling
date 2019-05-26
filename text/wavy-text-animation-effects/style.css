@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: monospace;
+}
+.wave {
+  font-size: 2.5em;
+}
+.wave .char {
+  animation: animate 2s ease-in-out infinite;
+  transform: translateY(-2em);
+  animation-delay: calc(0.05s * var(--char-index))
+}
+
+@keyframes animate {
+  0%, 100% {
+    transform: translateY(-2em) rotate(-25deg);
+  }
+  50% {
+    transform: translateY(2em) rotate(25deg);
+  }
+}

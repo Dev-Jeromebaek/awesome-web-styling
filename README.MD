@@ -14,6 +14,8 @@
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
 
+- [Zoom In n Out Image Card](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/zoom-in-n-out-image-card)
+
 ## Checkbox
 
 - [CSS Creative Checkbox Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
@@ -143,6 +145,8 @@
 - [Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
 
 - [Text to Smoke Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-to-smoke-animation)
+
+- [Wavy Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wavy-text-animation-effects)
 
 ## Thumbnail
 

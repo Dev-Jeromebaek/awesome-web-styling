@@ -66,6 +66,10 @@
 
 - [Analog Clock Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/analog-clock-shape-loading)
 
+- [Bounce-X Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-x-loading-animation)
+
+- [Bounce-Y Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-y-loading-animation)
+
 - [Changing Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/changing-shape-loading)
 
 - [Css Svg Following Spinner](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/css-svg-following-spinner)

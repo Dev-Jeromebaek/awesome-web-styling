@@ -1,22 +1,39 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 
-## Accordian Menu Effect
+This repository is dedicated to Web styling using HTML5 + CSS3. (often using JavaScript and jQuery.)
+
+I started collecting component items for faster and prettier UI.
+
+I hope this repository will help you.
+
+There will be continuous updates in the future. Thank you!
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling/pulls)
+[![Github Stars](https://img.shields.io/github/stars/Dev-JeromeBaek/awesome-web-styling.svg?color=ff69b4)](https://github.com/Dev-JeromeBaek/awesome-web-styling/stars)
+[![Github Forks](https://img.shields.io/github/forks/Dev-JeromeBaek/awesome-web-styling.svg?color=important)](https://github.com/Dev-JeromeBaek/awesome-web-styling/forks)
+[![Github Pull requests](https://img.shields.io/github/issues-pr/Dev-JeromeBaek/awesome-web-styling.svg?color=blueviolet)](https://github.com/Dev-JeromeBaek/awesome-web-styling/pulls)
+[![Github Issues](https://img.shields.io/github/issues/Dev-JeromeBaek/awesome-web-styling.svg?color=yellow)](https://github.com/Dev-JeromeBaek/awesome-web-styling/issues)
+
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/SeungYeob/donate)
+
+### Accordian Menu Effect
 
 - [Simple Card Accordion](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
 
-## Button
+### Button
 
 - [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)
 
 - [Notification Button UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/notification-button-ui-design)
 
-## Card
+### Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
 
 - [Zoom In n Out Image Card](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/zoom-in-n-out-image-card)
 
-## Checkbox
+### Checkbox
 
 - [CSS Creative Checkbox Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
 
@@ -26,7 +43,7 @@
 
 - [Glowing Checkbox Button Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/glowing-checkbox-button-design)
 
-## Form
+### Form
 
 - [Animate Login and SignUp](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/animate-login-and-sign-up)
 
@@ -34,25 +51,25 @@
 
 - [Simple Login Form Gradient Background](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/simple-login-form-gradient-background)
 
-## Hamburger
+### Hamburger
 
 - [Zoom In - Zoom Out Hamburger Menu Icon Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)
 
 - [Transforming Hamburger Menu Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/transforming)
 
-## Indicator
+### Indicator
 
 - [Falling Arrow Effect 1](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-1)
 
 - [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
 
-## Layout
+### Layout
 
 - [Draggable Grid System with Gridster.js](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/draggable-grid-system-with-gridster)
 
 - [Responsive Masonry Grid Layout Like Pinterest](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/responsive-masonry-grid-layout-like-pinterest)
 
-## List
+### List
 
 - [Post List UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)
 
@@ -60,7 +77,7 @@
 
 - [Transforming Social Media List Toggle Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/transforming-social-media-list-toggle-icon)
 
-## Loading
+### Loading
 
 - [19 Simple Spinner collections](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/19-simple-spinner-collections)
 
@@ -88,17 +105,17 @@
 
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
 
-## Modal
+### Modal
 
 - [Animated Modal No JavaScript](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/modal/animated-modal-no-js)
 
-## Mouse
+### Mouse
 
 - [Moving Light Effects According To Mousemove](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/moving-light-effects-according-to-mousemove)
 
 - [Sketch.js Mousemove Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/sketchjs-mousemove-effects)
 
-## Navigation
+### Navigation
 
 - [Navigation Bar Like Apple.com](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/navigation-bar-like-apple-dot-com)
 
@@ -110,7 +127,7 @@
 
 - [Transforming Page Movement Navigation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/transforming-page-movement-navigation)
 
-## Page Design
+### Page Design
 
 - [Responsive Page Use Media Query](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-page-use-media-query)
 
@@ -118,7 +135,7 @@
 
 - [Vertical Timeline Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/vertical-timeline-design)
 
-## Scrolling
+### Scrolling
 
 - [Customize Scrollbar Using CSS](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/customize-scrollbar-using-css)
 
@@ -126,17 +143,17 @@
 
 - [Trigger CSS Animate On Scroll](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/trigger-css-animate-on-scroll)
 
-## Selectbox
+### Selectbox
 
 - [Styling Dropdown Select Box](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/selectbox/styling-dropdown-select-box)
 
-## Slider
+### Slider
 
 - [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
 
 - [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
 
-## Text
+### Text
 
 - [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
 
@@ -152,12 +169,12 @@
 
 - [Wavy Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wavy-text-animation-effects)
 
-## Thumbnail
+### Thumbnail
 
 - [Product Slider Like Flipcart](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/product-slider-like-flipcart)
 
 - [Simple jQuery Photo Gallery](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/simple-jquery-photo-gallery)
 
-## Tooltip
+### Tooltip
 
 - [Tooltip with Social Sharing](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/tooltip/tooltip-with-social-sharing)

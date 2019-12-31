@@ -21,6 +21,10 @@ There will be continuous updates in the future. Thank you!
 
 - [Simple Card Accordion](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
 
+### Box Model 📦
+
+- [Responsive Box Model Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/box/responsive-box-model-design)
+
 ### Button
 
 - [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)

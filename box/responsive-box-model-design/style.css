@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #444;
+}
+
+.container {
+  position: relative;
+  width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.container .card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+}
+
+.container .card:nth-child(even) {
+  flex-direction: column-reverse;
+}
+
+.container .card .imgBx {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: #000;
+}
+
+.container .card .imgBx img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.container .card .content {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .card .content div {
+  padding: 20px;
+  text-align: center;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+    margin: 50px;
+  }
+  .container .card {
+    flex-direction: row;
+    margin: 10px 0;
+  }
+  .container .card:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  .container .card .imgBx,
+  .container .card .content
+  {
+    width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .container .card {
+    flex-direction: column;
+    margin: 10px 0;
+  }
+  .container .card:nth-child(even) {
+    flex-direction: column;
+  }
+  .container .card .imgBx,
+  .container .card .content {
+    width: 100%;
+  }
+  .container .card .content {
+    height: 200px;
+  }
+}

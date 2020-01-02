@@ -157,6 +157,8 @@ There will be continuous updates in the future. Thank you!
 
 - [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
 
+- [Simple Vanilla JS Carousel Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)
+
 ### Text
 
 - [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)

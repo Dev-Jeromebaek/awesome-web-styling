@@ -31,6 +31,8 @@ There will be continuous updates in the future. Thank you!
 
 - [Notification Button UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/notification-button-ui-design)
 
+- [Delivery Truck on Road Button](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/delivery-truck-on-road-button)
+
 ### Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
@@ -156,8 +158,6 @@ There will be continuous updates in the future. Thank you!
 - [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
 
 - [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
-
-- [Simple Vanilla JS Carousel Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)
 
 ### Text
 

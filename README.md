@@ -33,6 +33,8 @@ There will be continuous updates in the future. Thank you!
 
 - [Delivery Truck on Road Button](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/delivery-truck-on-road-button)
 
+- [Subscription Button with Regex](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/subscription-button-with-regex)
+
 ### Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)

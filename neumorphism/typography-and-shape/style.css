@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eaeaea;
+}
+
+h2 {
+  font-size: 10em;
+  color: #eaeaea;
+  text-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08), -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box1 {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+  width: 200px;
+  height: 200px;
+  background: #eaeaea;
+  border-radius: 50%;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08), -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box2 {
+  position: absolute;
+  bottom: 50px;
+  right: 350px;
+  width: 200px;
+  height: 200px;
+  background: #eaeaea;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08), -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box3 {
+  position: absolute;
+  bottom: 30px;
+  left: 350px;
+  width: 250px;
+  height: 250px;
+  background: #eaeaea;
+  border-radius: 50%;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08), -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box3:before {
+  content: '';
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  right: 50px;
+  bottom: 50px;
+  background: #eaeaea;
+  border-radius: 50%;
+  box-shadow: inset 6px 6px 12px rgba(0, 0, 0, 0.08), inset -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box4 {
+  position: absolute;
+  top: 70px;
+  left: 350px;
+  width: 250px;
+  height: 250px;
+  background: #eaeaea;
+  border-radius: 50px;
+  box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.08), -6px -6px 12px rgba(255, 255, 255, 1);
+}
+
+.box4:before {
+  content: '';
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  right: 50px;
+  bottom: 50px;
+  background: #eaeaea;
+  border-radius: 30px;
+  box-shadow: inset 6px 6px 12px rgba(0, 0, 0, 0.08), inset -6px -6px 12px rgba(255, 255, 255, 1);
+}

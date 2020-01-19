@@ -4,4 +4,4 @@
 
 - [Neumorphism Card UI Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/neumorphism-card-ui-hover-effects)
 
-- [Neumorphism Typography and Shape](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/neumorphism-typography-and-shape)
+- [Neumorphism Typography and Shape](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/typography-and-shape)

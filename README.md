@@ -173,6 +173,8 @@ There will be continuous updates in the future. Thank you!
 
 - [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
 
+- [Ghost Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/ghost-text-animation)
+
 - [Loading Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/loading-text-animation-effects)
 
 - [Responsive Text Size](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/responsive-text-size)

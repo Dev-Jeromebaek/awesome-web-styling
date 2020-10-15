@@ -65,6 +65,10 @@ There will be continuous updates in the future. Thank you!
 
 - [Transforming Hamburger Menu Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/transforming)
 
+### Icon
+
+- [Location Pointer Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/icon/location-pointer-animation)
+
 ### Indicator
 
 - [Falling Arrow Effect 1](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-1)

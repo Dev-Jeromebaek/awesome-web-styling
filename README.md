@@ -75,6 +75,8 @@ There will be continuous updates in the future. Thank you!
 
 - [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
 
+- [Mouse Scroll Down Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/mouse-scroll-down-effect)
+
 ### Layout
 
 - [Draggable Grid System with Gridster.js](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/draggable-grid-system-with-gridster)

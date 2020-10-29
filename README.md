@@ -1,5 +1,6 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3424/badge)](https://bestpractices.coreinfrastructure.org/projects/3424)
 
 This repository is dedicated to Web styling using HTML5 + CSS3. (often using JavaScript and jQuery.)
 

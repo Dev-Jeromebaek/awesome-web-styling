@@ -1,6 +1,6 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3424/badge)](https://bestpractices.coreinfrastructure.org/projects/3424)
+
 
 This repository is dedicated to Web styling using HTML5 + CSS3. (often using JavaScript and jQuery.)
 
@@ -16,6 +16,7 @@ There will be continuous updates in the future. Thank you!
 [![Github Forks](https://img.shields.io/github/forks/Dev-JeromeBaek/awesome-web-styling.svg?color=important)](https://github.com/Dev-JeromeBaek/awesome-web-styling/forks)
 [![Github Pull requests](https://img.shields.io/github/issues-pr/Dev-JeromeBaek/awesome-web-styling.svg?color=blueviolet)](https://github.com/Dev-JeromeBaek/awesome-web-styling/pulls)
 [![Github Issues](https://img.shields.io/github/issues/Dev-JeromeBaek/awesome-web-styling.svg?color=yellow)](https://github.com/Dev-JeromeBaek/awesome-web-styling/issues)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3424/badge)](https://bestpractices.coreinfrastructure.org/projects/3424)
 
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/SeungYeob/donate)
 

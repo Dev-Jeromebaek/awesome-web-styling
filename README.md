@@ -35,6 +35,10 @@ There will be continuous updates in the future. Thank you!
 
 - [Subscription Button with Regex](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/subscription-button-with-regex)
 
+### Canvas
+
+- [Rotating Polygons](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons)
+
 ### Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)

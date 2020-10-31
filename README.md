@@ -1,6 +1,6 @@
 # Awesome Web Styling with CSS Animation Effects ⭐️
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling)
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dev-JeromeBaek/awesome-web-styling)
 
 This repository is dedicated to Web styling using HTML5 + CSS3. (often using JavaScript and jQuery.)
 
@@ -181,6 +181,10 @@ There will be continuous updates in the future. Thank you!
 - [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
 
 - [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
+
+- [Capture Effect Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/capture-effect-slider)
+
+- [Simple Vanilla JS Carousel Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)
 
 ### Text
 

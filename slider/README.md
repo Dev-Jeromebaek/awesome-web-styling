@@ -4,4 +4,6 @@
 
 - [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
 
+- [Capture Effect Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/capture-effect-slider)
+
 - [Simple Vanilla JS Carousel Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)

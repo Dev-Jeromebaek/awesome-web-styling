@@ -42,6 +42,8 @@ There will be continuous updates in the future. Thank you!
 
 - [Rotating Polygons](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons)
 
+- [Wavy Layer](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/wavy-layer)
+
 ### Card
 
 - [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)

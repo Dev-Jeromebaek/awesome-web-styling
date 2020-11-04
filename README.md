@@ -16,6 +16,10 @@ There will be continuous updates in the future. Thank you!
 [![Github Forks](https://img.shields.io/github/forks/Dev-JeromeBaek/awesome-web-styling.svg?color=important)](https://github.com/Dev-JeromeBaek/awesome-web-styling/forks)
 [![Github Pull requests](https://img.shields.io/github/issues-pr/Dev-JeromeBaek/awesome-web-styling.svg?color=blueviolet)](https://github.com/Dev-JeromeBaek/awesome-web-styling/pulls)
 [![Github Issues](https://img.shields.io/github/issues/Dev-JeromeBaek/awesome-web-styling.svg?color=yellow)](https://github.com/Dev-JeromeBaek/awesome-web-styling/issues)
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDev-Jeromebaek%2Fawesome-web-styling&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23EF652E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3424/badge)](https://bestpractices.coreinfrastructure.org/projects/3424)
 
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/SeungYeob/donate)

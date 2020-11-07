@@ -12,4 +12,6 @@
 
 - [Text to Smoke Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-to-smoke-animation)
 
+- [Wave Motion Text](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wave-motion-text)
+
 - [Wavy Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wavy-text-animation-effects)

@@ -51,55 +51,55 @@ h1 span {
 }
 h1 span:nth-child(1) {
   animation-delay: 0.1s;
-  transform: translateX(5px);
+  left: 45%;
   z-index: 8;
 }
 h1 span:nth-child(2) {
   animation-delay: 0.1s;
   color: #000;
-  left: 135px;
+  left: 45.5%;
   z-index: 7;
 }
 h1 span:nth-child(3) {
   animation-delay: 0.15s;
   transform: translateX(2px);
   color: #ff2300;
-  left: 139px;
+  left: 45.9%;
   z-index: 6;
 }
 h1 span:nth-child(4) {
   animation-delay: 0.2s;
   transform: translateX(4px);
   color: #ff8800;
-  left: 143px;
+  left: 46.3%;
   z-index: 5;
 }
 h1 span:nth-child(5) {
   animation-delay: 0.25s;
   transform: translateX(6px);
   color: #cc00ff;
-  left: 147px;
+  left: 46.7%;
   z-index: 4;
 }
 h1 span:nth-child(6) {
   animation-delay: 0.3s;
   transform: translateX(8px);
   color: #0084ff;
-  left: 151px;
+  left: 47.1%;
   z-index: 3;
 }
 h1 span:nth-child(7) {
   animation-delay: 0.35s;
   transform: translateX(10px);
   color: #00ff6a;
-  left: 155px;
+  left: 47.5%;
   z-index: 2;
 }
 h1 span:nth-child(8) {
   animation-delay: 0.4s;
   transform: translateX(12px);
   color: #eeff00;
-  left: 159px;
+  left: 47.9%;
   z-index: 1;
 }
 
@@ -115,16 +115,16 @@ h1 span:nth-child(8) {
   transform: rotate(0deg) scale(0);
 }
 .star.text1 {
-  top: 32%;
-  left: 34%;
+  top: 43.7%;
+  left: 46.6%;
 }
 .star.text2 {
-  top: 44%;
+  top: 48%;
   left: 52.4%;
 }
 .star.text3 {
-  top: 59.7%;
-  left: 69%;
+  top: 53.4%;
+  left: 57.4%;
 }
 
 @keyframes star {

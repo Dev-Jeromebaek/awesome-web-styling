@@ -102,29 +102,33 @@ h1 span:nth-child(8) {
   left: 47.9%;
   z-index: 1;
 }
-
+.stars {
+  position: relative;
+  width: 100%;
+  z-index: 100;
+}
 .star {
-  position: fixed;
+  position: absolute;
   width: 5px;
   height: 5px;
   border: 1px solid #000;
-  z-index: 100;
   background: #fff;
   animation: star 2s ease-in-out infinite;
   animation-delay: 1.1s;
   transform: rotate(0deg) scale(0);
+  z-index: 100;
 }
 .star.text1 {
-  top: 43.7%;
-  left: 46.6%;
+  top: -167px;
+  left: 10px;
 }
 .star.text2 {
-  top: 48%;
-  left: 52.4%;
+  top: -115px;
+  left: 92px;
 }
 .star.text3 {
-  top: 53.4%;
-  left: 57.4%;
+  top: -57px;
+  left: 164px;
 }
 
 @keyframes star {

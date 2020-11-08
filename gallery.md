@@ -24,216 +24,207 @@ There will be continuous updates in the future. Thank you!
 
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/SeungYeob/donate)
 
+## Gallary
+
 ### Accordian Menu Effect
 
-- [Simple Card Accordion](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
+[<img src="gifs/accordion/simple-card-accordion.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
+
+---
 
 ### Box Model 📦
 
-- [Responsive Box Model Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/box/responsive-box-model-design)
+[<img src="gifs/box/responsive-box-model-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/box/responsive-box-model-design)
+
+---
 
 ### Button
 
-- [Glowing Gradient Button Animation Effects on Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)
+[<img src="gifs/button/glowing-gradient-button-effects-on-hover.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/glowing-gradient-button-effects-on-hover)
+[<img src="gifs/button/notification-button-ui-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/notification-button-ui-design)
+[<img src="gifs/button/delivery-truck-on-road-button.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/delivery-truck-on-road-button)
+[<img src="gifs/button/subscription-button-with-regex.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/subscription-button-with-regex)
 
-- [Notification Button UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/notification-button-ui-design)
-
-- [Delivery Truck on Road Button](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/delivery-truck-on-road-button)
-
-- [Subscription Button with Regex](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/button/subscription-button-with-regex)
+---
 
 ### Canvas
 
-- [Moving Gradation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-gradation)
+[<img src="gifs/canvas/moving-gradation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-gradation)<!-- [<img src="gifs/canvas/moving-sheep-sun-layer.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-sheep-sun-layer)
+[<img src="gifs/canvas/ripple-dots-image-colors.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/ripple-dots-image-colors) -->
+[<img src="gifs/canvas/rotating-polygons.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons)
+[<img src="gifs/canvas/rotating-polygons2.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons2)
+[<img src="gifs/canvas/wavy-layer.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/wavy-layer)
 
-<!-- - [Moving Sheep Sun Layer](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-sheep-sun-layer) -->
-
-<!-- - [Ripple Dots Image Colors](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/ripple-dots-image-colors) -->
-
-- [Rotating Polygons](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons)
-
-- [Rotating Polygons 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/rotating-polygons2)
-
-- [Wavy Layer](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/wavy-layer)
+---
 
 ### Card
 
-- [Price Table User Interface Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
+[<img src="gifs/card/price-table-user-interface-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/price-table-user-interface-design)
+[<img src="gifs/card/zoom-in-n-out-image-card.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/zoom-in-n-out-image-card)
 
-- [Zoom In n Out Image Card](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/card/zoom-in-n-out-image-card)
+---
 
 ### Checkbox
 
-- [CSS Creative Checkbox Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
+[<img src="gifs/checkbox/css-creative-checkbox-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-creative-checkbox-design)
+[<img src="gifs/checkbox/css-custom-animated-checkbox.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-animated-checkbox)
+[<img src="gifs/checkbox/css-custom-checkbox-list-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
+[<img src="gifs/checkbox/glowing-checkbox-button-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/glowing-checkbox-button-design)
 
-- [CSS Custom Animated Checkbox](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-animated-checkbox)
-
-- [CSS Custom Checkbox List Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/css-custom-checkbox-list-design)
-
-- [Glowing Checkbox Button Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/checkbox/glowing-checkbox-button-design)
+---
 
 ### Form
 
-- [Animate Login and SignUp](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/animate-login-and-sign-up)
+[<img src="gifs/form/animate-login-and-sign-up.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/animate-login-and-sign-up)
+[<img src="gifs/form/input-label-slide-up-on-hover.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/input-label-slide-up-on-hover)
+[<img src="gifs/form/simple-login-form-gradient-background.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/simple-login-form-gradient-background)
 
-- [Input Label Slide Up On Hover](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/input-label-slide-up-on-hover)
-
-- [Simple Login Form Gradient Background](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/form/simple-login-form-gradient-background)
+---
 
 ### Hamburger
 
-- [Zoom In - Zoom Out Hamburger Menu Icon Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)
+[<img src="gifs/hamburger/zoom-in-n-out.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/zoom-in-n-out)
+[<img src="gifs/hamburger/transforming.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/transforming)
 
-- [Transforming Hamburger Menu Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/hamburger/transforming)
+---
 
 ### Icon
 
-- [Folder Open Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/icon/folder-open-effect)
+[<img src="gifs/icon/folder-open-effect.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/icon/folder-open-effect)
+[<img src="gifs/icon/location-pointer-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/icon/location-pointer-animation)
 
-- [Location Pointer Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/icon/location-pointer-animation)
+---
 
 ### Indicator
 
-- [Falling Arrow Effect 1](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-1)
+[<img src="gifs/indicator/falling-arrow-effect-1.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-1)
+[<img src="gifs/indicator/falling-arrow-effect-2.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
+[<img src="gifs/indicator/mouse-scroll-down-effect.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/mouse-scroll-down-effect)
 
-- [Falling Arrow Effect 2](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/falling-arrow-effect-2)
-
-- [Mouse Scroll Down Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/indicator/mouse-scroll-down-effect)
+---
 
 ### Layout
 
-- [Draggable Grid System with Gridster.js](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/draggable-grid-system-with-gridster)
+[<img src="gifs/layout/draggable-grid-system-with-gridster.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/draggable-grid-system-with-gridster)
+[<img src="gifs/layout/responsive-masonry-grid-layout-like-pinterest.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/responsive-masonry-grid-layout-like-pinterest)
 
-- [Responsive Masonry Grid Layout Like Pinterest](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/responsive-masonry-grid-layout-like-pinterest)
+---
 
 ### List
 
-- [Post List UI Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)
+[<img src="gifs/list/post-list-ui-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/post-list-ui-design)
+[<img src="gifs/list/style-lists-with-css-hover-effect.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/style-lists-with-css-hover-effect)
+[<img src="gifs/list/transforming-social-media-list-toggle-icon.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/transforming-social-media-list-toggle-icon)
 
-- [Style Lists with CSS Hover Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/style-lists-with-css-hover-effect)
-
-- [Transforming Social Media List Toggle Icon](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/list/transforming-social-media-list-toggle-icon)
+---
 
 ### Loading
 
-- [19 Simple Spinner collections](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/19-simple-spinner-collections)
+[<img src="gifs/loading/19-simple-spinner-collections.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/19-simple-spinner-collections)
+[<img src="gifs/loading/analog-clock-shape-loading.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/analog-clock-shape-loading)
+[<img src="gifs/loading/bounce-x-loading-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-x-loading-animation)
+[<img src="gifs/loading/bounce-y-loading-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-y-loading-animation)
+[<img src="gifs/loading/changing-shape-loading.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/changing-shape-loading)
+[<img src="gifs/loading/css-svg-following-spinner.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/css-svg-following-spinner)
+[<img src="gifs/loading/detached-diamond-loading-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/detached-diamond-loading-animation)
+[<img src="gifs/loading/flip-loading-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/flip-loading-animation)
+[<img src="gifs/loading/loading-page-similar-to-windows.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/loading-page-similar-to-windows)
+[<img src="gifs/loading/netflix-logo-reveal-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/netflix-logo-reveal-animation)
+[<img src="gifs/loading/no-freeze-spinner.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/no-freeze-spinner)
+[<img src="gifs/loading/simple-square-point-loading.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)
+[<img src="gifs/loading/widget-spinner-loading.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
 
-- [Analog Clock Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/analog-clock-shape-loading)
-
-- [Bounce-X Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-x-loading-animation)
-
-- [Bounce-Y Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/bounce-y-loading-animation)
-
-- [Changing Shape Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/changing-shape-loading)
-
-- [Css Svg Following Spinner](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/css-svg-following-spinner)
-
-- [Detached Diamond Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/detached-diamond-loading-animation)
-
-- [Flip Loading Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/flip-loading-animation)
-
-- [Loading page similar to Windows](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/loading-page-similar-to-windows)
-
-- [Netflix Logo Reveal Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/netflix-logo-reveal-animation)
-
-- [No Freeze Spinner](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/no-freeze-spinner)
-
-- [Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)
-
-- [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
+---
 
 ### Modal
 
-- [Animated Modal No JavaScript](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/modal/animated-modal-no-js)
+[<img src="gifs/modal/animated-modal-no-js.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/modal/animated-modal-no-js)
+
+---
 
 ### Mouse
 
-- [Moving Light Effects According To Mousemove](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/moving-light-effects-according-to-mousemove)
+[<img src="gifs/mouse/moving-light-effects-according-to-mousemove.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/moving-light-effects-according-to-mousemove)
+[<img src="gifs/mouse/sketchjs-mousemove-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/sketchjs-mousemove-effects)
 
-- [Sketch.js Mousemove Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/mouse/sketchjs-mousemove-effects)
+---
 
 ### Navigation
 
-- [Navigation Bar Like Apple.com](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/navigation-bar-like-apple-dot-com)
+[<img src="gifs/nav/navigation-bar-like-apple-dot-com.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/navigation-bar-like-apple-dot-com)
+[<img src="gifs/nav/responsive-menu.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-menu)
+[<img src="gifs/nav/responsive-sidebar-menu-for-mobile.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-sidebar-menu-for-mobile)
+[<img src="gifs/nav/responsive-transparent-menu.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-transparent-menu)
+[<img src="gifs/nav/transforming-page-movement-navigation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/transforming-page-movement-navigation)
 
-- [Responsive Menu](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-menu)
-
-- [Responsive Sidebar Menu for Mobile](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-sidebar-menu-for-mobile)
-
-- [Responsive Transparent Menu](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/responsive-transparent-menu)
-
-- [Transforming Page Movement Navigation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/nav/transforming-page-movement-navigation)
+---
 
 ### Neumorphism
 
-- [Dark Mode / Login Form](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/dark-mode/login-form)
+[<img src="gifs/neumorphism/dark-mode/login-form.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/dark-mode/login-form)
+[<img src="gifs/neumorphism/neumorphism-card-ui-hover-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/neumorphism-card-ui-hover-effects)
+[<img src="gifs/neumorphism/neumorphism-typography-and-shape.png" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/typography-and-shape)
 
-- [Neumorphism Card UI Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/neumorphism-card-ui-hover-effects)
-
-- [Neumorphism Typography and Shape](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/neumorphism/typography-and-shape)
+---
 
 ### Page Design
 
-- [Responsive Page Use Media Query](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-page-use-media-query)
+[<img src="gifs/page/responsive-page-use-media-query.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-page-use-media-query)
+[<img src="gifs/page/responsive-vertical-timeline-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-vertical-timeline-design)
+[<img src="gifs/page/vertical-timeline-design.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/vertical-timeline-design)
 
-- [Responsive Vertical Timeline Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/responsive-vertical-timeline-design)
-
-- [Vertical Timeline Design](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/page/vertical-timeline-design)
+---
 
 ### Scrolling
 
-- [Customize Scrollbar Using CSS](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/customize-scrollbar-using-css)
+[<img src="gifs/scrolling/customize-scrollbar-using-css.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/customize-scrollbar-using-css)
+[<img src="gifs/scrolling/smooth-scrolling-effect.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)
+[<img src="gifs/scrolling/trigger-css-animate-on-scroll.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/trigger-css-animate-on-scroll)
 
-- [Smooth Scrolling Effect](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/smooth-scrolling-effect)
-
-- [Trigger CSS Animate On Scroll](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/scrolling/trigger-css-animate-on-scroll)
+---
 
 ### Selectbox
 
-- [Styling Dropdown Select Box](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/selectbox/styling-dropdown-select-box)
+[<img src="gifs/selectbox/styling-dropdown-select-box.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/selectbox/styling-dropdown-select-box)
+
+---
 
 ### Slider
 
-- [3D Responsive Touch Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
+[<img src="gifs/slider/3d-responsive-touch-slider.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/3d-responsive-touch-slider)
+[<img src="gifs/slider/box-slider-hover-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
+[<img src="gifs/slider/capture-effect-slider.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/capture-effect-slider)
+[<img src="gifs/slider/simple-vanilla-js-carousel-slider.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)
 
-- [Box Slider Hover Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/box-slider-hover-effects)
-
-- [Capture Effect Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/capture-effect-slider)
-
-- [Simple Vanilla JS Carousel Slider](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/slider/simple-vanilla-js-carousel-slider)
+---
 
 ### Text
 
-- [3D Jumping Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
+[<img src="gifs/text/3d-jumping-text-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/3d-jumping-text-animation)
+[<img src="gifs/text/ghost-text-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/ghost-text-animation)
+[<img src="gifs/text/loading-text-animation-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/loading-text-animation-effects)
+[<img src="gifs/text/responsive-text-size.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/responsive-text-size)
+[<img src="gifs/text/shining-text-animation-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/shining-text-animation-effects)
+[<img src="gifs/text/text-filling-with-water.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
+[<img src="gifs/text/text-to-smoke-animation.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-to-smoke-animation)
+[<img src="gifs/text/wave-motion-text.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wave-motion-text)
+[<img src="gifs/text/wavy-text-animation-effects.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wavy-text-animation-effects)
 
-- [Ghost Text Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/ghost-text-animation)
-
-- [Loading Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/loading-text-animation-effects)
-
-- [Responsive Text Size](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/responsive-text-size)
-
-- [Shining Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/shining-text-animation-effects)
-
-- [Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
-
-- [Text to Smoke Animation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-to-smoke-animation)
-
-- [Wave Motion Text](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wave-motion-text)
-
-- [Wavy Text Animation Effects](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/wavy-text-animation-effects)
+---
 
 ### Thumbnail
 
-- [Product Slider Like Flipcart](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/product-slider-like-flipcart)
+[<img src="gifs/thumbnail/product-slider-like-flipcart.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/product-slider-like-flipcart)
+[<img src="gifs/thumbnail/simple-jquery-photo-gallery.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/simple-jquery-photo-gallery)
 
-- [Simple jQuery Photo Gallery](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/thumbnail/simple-jquery-photo-gallery)
+---
 
 ### Tooltip
 
-- [Tooltip with Social Sharing](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/tooltip/tooltip-with-social-sharing)
+[<img src="gifs/tooltip/tooltip-with-social-sharing.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/tooltip/tooltip-with-social-sharing)
 
 ---
 
 ### Web Site Template
 
-- [Responsive Web Xypo](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/website/template/responsive-web-xypo)
+[<img src="gifs/website/template/responsive-web-xypo.gif" width="100px" height="100px">](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/website/template/xypo)

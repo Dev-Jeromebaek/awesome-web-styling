@@ -59,9 +59,10 @@ There will be continuous updates in the future. Thank you!
 ### Canvas
 
 - [Moving Gradation](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-gradation)
-<img src="static/image/html5.png" width="20px">
-<img src="static/image/css3.png" width="20px">
-<img src="static/image/javascript.png" width="20px">
+  <img src="static/image/html5.png" width="20px">
+  <img src="static/image/css3.png" width="20px">
+  <img src="static/image/javascript.png" width="20px">
+
 <!-- - [Moving Sheep Sun Layer](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/moving-sheep-sun-layer) -->
 
 <!-- - [Ripple Dots Image Colors](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/canvas/ripple-dots-image-colors) -->

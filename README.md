@@ -375,6 +375,10 @@ There will be continuous updates in the future. Thank you!
   <img src="static/image/html5.png" width="20px">
   <img src="static/image/css3.png" width="20px">
 
+- [Stretch Motion Text](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/stretch-motion-text)
+  <img src="static/image/html5.png" width="20px">
+  <img src="static/image/css3.png" width="20px">
+
 - [Text Filling with Water](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/text/text-filling-with-water)
   <img src="static/image/html5.png" width="20px">
   <img src="static/image/css3.png" width="20px">

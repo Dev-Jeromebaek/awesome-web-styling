@@ -160,6 +160,12 @@ There will be continuous updates in the future. Thank you!
   <img src="static/image/html5.png" width="20px">
   <img src="static/image/css3.png" width="20px">
 
+### Input
+
+- [Simple Input Text Box](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/input/simple-input-text-box)
+  <img src="static/image/html5.png" width="20px">
+  <img src="static/image/css3.png" width="20px">
+
 ### Layout
 
 - [Draggable Grid System with Gridster.js](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/layout/draggable-grid-system-with-gridster)

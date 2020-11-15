@@ -242,6 +242,10 @@ There will be continuous updates in the future. Thank you!
   <img src="static/image/html5.png" width="20px">
   <img src="static/image/css3.png" width="20px">
 
+- [Spinning Square SVG Loader](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/spinning-square-svg-loader)
+  <img src="static/image/html5.png" width="20px">
+  <img src="static/image/css3.png" width="20px">
+
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
   <img src="static/image/html5.png" width="20px">
   <img src="static/image/css3.png" width="20px">

@@ -24,6 +24,8 @@
 
 - [Simple square point loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/simple-square-point-loading)
 
+- [Spinning Square SVG Loader](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/spinning-square-svg-loader)
+
 - [Widget Spinner Loading](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/loading/widget-spinner-loading)
 
 ---

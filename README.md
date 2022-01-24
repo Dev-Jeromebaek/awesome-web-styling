@@ -24,6 +24,8 @@ There will be continuous updates in the future. Thank you!
 
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/SeungYeob/donate)
 
+[![opensollective](https://opencollective.com/awesome-web-styling/tiers/sponsors.svg?avatarHeight=48)](https://opencollective.com/awesome-web-styling)
+
 ### Accordian Menu Effect
 
 - [Simple Card Accordion](https://github.com/Dev-JeromeBaek/awesome-web-styling/tree/master/accordion/simple-card-accordion)
